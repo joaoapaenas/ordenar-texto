@@ -9,7 +9,11 @@ http://www.cespe.unb.br/concursos/
 A lista de aprovados normalmente segue um padrão. Este ordenador deve funcionar
 para a maioria delas, salvo algo mais específico.
 
-Para usar o script sem ter que clonar o repositório:
+Para usar a minha versão:
+http://joaoapaenas.github.io/ordenar-texto/
+
+
+Para usar o script original:
 http://rodrigocfd.github.io/ordenador-cespe/
 
 --
