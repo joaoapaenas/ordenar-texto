@@ -143,6 +143,7 @@ $(document).ready(function() {
         if(campoOrd === null) return false;
         var data = $('#input').val(); // texto bruto com entradas separadas por barra
         data = data.replace(/\n/g, ' ') // retira quebras de linha
+            .replace(/\,/g, '.')
             .replace(/\;/g, ',')
             .replace(/\//g, '\n')       // transforma as barras em quebras de linha; uma entrada por linha
             .replace(/\;/g, '\n')       // transforma as ponto e virgula em quebras de linha; uma entrada por linha
